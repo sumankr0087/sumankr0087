@@ -14,14 +14,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://github.com/actions/starter-workflows/blob/main/icons/python.svg" alt="git" width="50" height="50"/>
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/django-icon.svg" alt="git" width="50" height="50"/>
   <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" alt="git" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="git" width="50" height="50"/>
   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_reactjs.svg" alt="git" width="50" height="50"/>
+  <img src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/nuxt2.svg" alt="git" width="50" height="50"/>
+  <img src="https://github.com/actions/starter-workflows/blob/main/icons/python.svg" alt="git" width="50" height="50"/>
   <img src="https://github.com/detain/svg-logos/blob/master/svg/v/vuex-1.svg" alt="git" width="50" height="50"/>
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/redux.svg" alt="git" width="50" height="50"/>
-  <img src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/nuxt2.svg" alt="git" width="50" height="50"/>
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/django-icon.svg" alt="git" width="50" height="50"/>
   <img src="https://github.com/actions/starter-workflows/blob/main/icons/html.svg" alt="git" width="50" height="50"/>
   <img src="https://github.com/detain/svg-logos/blob/master/svg/c/css10.svg" alt="git" width="50" height="50"/>
   <img src="https://github.com/withastro/docs/blob/main/public/logos/tailwind.svg" alt="git" width="50" height="50"/>
