@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suman Kumar</h1>
 <h3 align="center">A Passionate FullStack Developer</h3>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Machine learning**
 
 - 💬 Ask me about **Python, JavaScript, VueJs, NuxtJs, ReactJS and Django**
 
