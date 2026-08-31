@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Suman Kumar</h1>
-<h3 align="center">A Passionate FullStack Developer</h3>
 
-- 🌱 I’m currently learning **Machine learning**
+<h3 align="center">Python Backend & AI Engineer</h3>
 
-- 💬 Ask me about **Python, JavaScript, VueJs, NuxtJs, ReactJS and Django**
+- 🤖 I'm currently building and learning **Generative AI, RAG, LLMs and AI Agents**
+
+- 🐍 Experienced with **Python, Django, FastAPI and REST APIs**
+
+- 🧠 Ask me about **Python, Django, FastAPI, RAG, LLMs, LangChain and AI**
+
+- 🗄️ Experienced with **PostgreSQL, MongoDB and ChromaDB**
+
+- 🐳 Familiar with **Docker, Git, GitHub and CI/CD**
+
+- 🚀 I enjoy building **AI-powered applications and scalable backend systems**
 
 - 📫 How to reach me **sumankr0087@gmail.com**
 
