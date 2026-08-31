@@ -2,17 +2,12 @@
 
 <h3 align="center">Python Backend & AI Engineer</h3>
 
-- 🤖 I'm currently building and learning **Generative AI, RAG, LLMs and AI Agents**
-
-- 🐍 Experienced with **Python, Django, FastAPI and REST APIs**
-
-- 🧠 Ask me about **Python, Django, FastAPI, RAG, LLMs, LangChain and AI**
-
+- 🤖 Building applications with **Generative AI, RAG, LLMs and AI Agents**
+- 🐍 Working with **Python, Django, FastAPI and REST APIs**
+- 🧠 Exploring **LangChain, LLM orchestration and AI Engineering**
 - 🗄️ Experienced with **PostgreSQL, MongoDB and ChromaDB**
-
-- 🐳 Familiar with **Docker, Git, GitHub and CI/CD**
-
-- 🚀 I enjoy building **AI-powered applications and scalable backend systems**
+- 🐳 Working with **Docker, Git, GitHub and CI/CD**
+- 🚀 Passionate about building **AI-powered products and scalable backend systems**
 
 - 📫 How to reach me **sumankr0087@gmail.com**
 
