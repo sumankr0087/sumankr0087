@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Suman Kumar</h1>
 
-<h3 align="center">Python Backend & AI Engineer</h3>
+<h3 align="center">Full Stack Engineer | Python Backend & AI Engineer</h3>
 
 - 🤖 Building applications with **Generative AI, RAG, LLMs and AI Agents**
 - 🐍 Working with **Python, Django, FastAPI and REST APIs**
-- 🧠 Exploring **LangChain, LLM orchestration and AI Engineering**
+- 🎨 Developing responsive user interfaces using **React.js, Vue.js, JavaScript, HTML5 and CSS3**
+- ⚛️ Experienced in **Frontend Development, Component-Based Architecture and API Integration**
+- 🧠 Exploring **LangChain, LLM Orchestration and AI Engineering**
 - 🗄️ Experienced with **PostgreSQL, MongoDB and ChromaDB**
 - 🐳 Working with **Docker, Git, GitHub and CI/CD**
-- 🚀 Passionate about building **AI-powered products and scalable backend systems**
+- 🔗 Integrating frontend applications with **Backend APIs and AI-powered services**
+- 🚀 Passionate about building **AI-powered products, modern web applications and scalable full-stack systems**
 
 - 📫 How to reach me **sumankr0087@gmail.com**
 
